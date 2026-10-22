@@ -1,0 +1,17 @@
+[general]
+name=Convertitore Quote ConveRgo
+qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99
+description=Converte coordinate (geografiche e piane) e quote tra ETRF2000, ETRF89, ED50 e ROMA40 con i grigliati IGM .GK2, come ConveRgo
+version=0.1
+author=Davide Tamiozzo
+email=davidetamiozzo@outlook.it
+about=Sceglie un layer, i campi X, Y, Z, il sistema di arrivo e la cartella dei grigliati .GK2. Produce poi un nuovo layer con coordinate e quote convertite.
+tracker=https://github.com/tazioboy/Convertitore-Quote-ConveRgo
+repository=https://github.com/tazioboy/Convertitore-Quote-ConveRgo/issues
+tags=quote,geoide,grigliati,conversione,convergo
+homepage=https://github.com/tazioboy/Convertitore-Quote-ConveRgo
+category=Vector
+icon=icon.png
+experimental=True
+deprecated=False
